@@ -5,7 +5,7 @@
 ## :rocket: Sobre o desafio
 
 Desafio é criar uma aplicação em ReactJS que faça List, Create e Delete dos Repositories!<br/>
-O back-end foi desenvoldido com NodeJs. <a href="">Link Git</a>
+O back-end foi desenvoldido com NodeJs. <a href="https://github.com/carloskempa/Repositories-api-NodeJs">Link Git</a>
 
 ### Funcionalidades da aplicação
 
